@@ -53,13 +53,10 @@ class TextScramble {
 }
 
 const phrases = [
-  'Yes, I am a criminal.',
-  'My crime is that of curiosity.',
-  'My crime is that of judging people by what they say and think, not what they look like.',
-  'My crime is that of outsmarting you, something that you will never forgive me for.',
-  'I am a hacker, and this is my manifesto.',
-  'You may stop this individual, but you cant stop us all...',
-  'after all, were all alike.'
+'  I DONT CARE AT ALL ',
+' I AM LOST' ,
+' THE TRUST I WAS SEARCHING FOR ' , 
+'  AM STILL SEARCHING IT OFF '
 ]
 
 const el = document.querySelector('.text')
@@ -79,7 +76,7 @@ next()
 
 var app = {
 
-  chars: ['PureHackers','Unleashed','127.0.0.1','1337','0x523344','Localhost','Cr4sH CoD3','HACKED!','Security','Breached!','System'],
+  chars: ['IS IT HACKED?', ' WHO IS D4RKFURY9' , 'WHO DID IT?'],
 
   init: function () {
     app.container = document.createElement('div');
